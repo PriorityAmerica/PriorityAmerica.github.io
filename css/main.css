@@ -1504,7 +1504,8 @@ header .header-logo a {
   header .header-logo a {
     width: 150;
     height: 47;
-    background: url("../images/priority-america-hires-mobile.png") no-repeat center;
+    border: 1;
+    background: url("../images/priority-america-hires-mobile.png") no-repeat left;
   }
   #header-menu-trigger .header-menu-text {
     display: none;
