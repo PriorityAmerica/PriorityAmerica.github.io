@@ -1504,7 +1504,7 @@ header .header-logo a {
   header .header-logo a {
     display: block;
     margin: 0;
-    padding: 0;
+    padding: 50;
     outline: 0;
     background: url("../images/priority-america-hires-mobile.png") no-repeat left;
   }
