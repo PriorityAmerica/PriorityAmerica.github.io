@@ -1502,8 +1502,8 @@ header .header-logo a {
 }
 @media only screen and (max-width: 400px) {
   header .header-logo a {
-    width: 300px;
-    height: 93px;
+    width: 81px;
+    height: 25px;
   }
   #header-menu-trigger .header-menu-text {
     display: none;
