@@ -1502,9 +1502,7 @@ header .header-logo a {
 }
 @media only screen and (max-width: 400px) {
   header .header-logo a {
-    width: 200;
-    height: 63;
-    background: url("../images/priority-america-hires-mobile.png") no-repeat left;
+    background: url("../images/priority-america-hires-mobile.png") no-repeat center;
   }
   #header-menu-trigger .header-menu-text {
     display: none;
