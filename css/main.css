@@ -1498,7 +1498,7 @@ header .header-logo a {
 */
 @media only screen and (max-width: 768px) {
   header .header-logo a {
-    background-image: url(../images/keyboard-bg.jpg);
+ 
   }
 }
 @media only screen and (max-width: 400px) {
