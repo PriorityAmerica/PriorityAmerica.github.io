@@ -1506,7 +1506,7 @@ header .header-logo a {
     margin: 0;
     padding: 50;
     outline: 0;
-    background: url("../images/priority-america-hires-mobile.png") no-repeat left;
+    background: url("../images/priority-america-hires-mobile.png") no-repeat right;
   }
   #header-menu-trigger .header-menu-text {
     display: none;
