@@ -1513,8 +1513,9 @@ header .header-logo a {
 
 @media only screen and (max-width : 400px) {
   header .header-logo a {
-    background-image: url(../images/test.jpg) no-repeat center center fixed;
+    background-image: url("../images/test.jpg") width:310; no-repeat center center fixed;
     background-color: #ffffff
+    border: 1px;
   }
 }
 
