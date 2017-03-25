@@ -1515,7 +1515,7 @@ header .header-logo a {
 
 @media only screen and (min-width : 380px) and (max-width : 400px) {
   header {
-    background-image: url(../images/keyboard-bg-small.jpg) no-repeat center center fixed;
+    background-image: url(../images/test.jpg) no-repeat center center fixed;
   }
 }
 
