@@ -1261,6 +1261,7 @@ header .header-logo a {
   padding: 0;
   outline: 0;
   border: 1px;
+  border-color: #ffffff;
   width: 350px;
   height: 109px;
   background: url("../images/priority-america-hires.png") no-repeat center;
