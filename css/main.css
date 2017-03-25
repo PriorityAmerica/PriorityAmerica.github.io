@@ -1503,7 +1503,8 @@ header .header-logo a {
 @media only screen and (max-width: 400px) {
   header .header-logo a {
     display: block;
-    background: url("../images/priority-america-hires-mobile.png") no-repeat left;
+    /*background: url("../images/priority-america-hires-mobile.png") no-repeat left;*/
+    background-image: url(../images/keyboard-bg-small.jpg) no-repeat ;
   }
   #header-menu-trigger .header-menu-text {
     display: none;
