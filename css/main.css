@@ -1203,10 +1203,6 @@ input::-moz-focus-inner {
     font-size: 3.1rem;
   }
 
-  
-    background: url("../images/priority-america-hires-mobile2.png") no-repeat center;
-  
-
 }
 .wide {
   max-width: 1300px;
@@ -1266,6 +1262,7 @@ header .header-logo a {
   outline: 0;
   border: none;
   width: 350px;
+
   height: 109px;
   background: url("../images/priority-america-hires.png") no-repeat center;
   background-size: 350px 109px;
@@ -1492,17 +1489,11 @@ header .header-logo a {
  * responsive:
  * header section 
  * ------------------------------------------------------------------- */
-/*
 @media only screen and (max-width: 768px) {
   header .header-logo a {
     width: 51px;
     height: 24px;
     background-size: 51px 24px;
-  }
-}
-*/
-@media only screen and (max-width: 768px) {
-  header .header-logo a {
   }
 }
 
@@ -1519,7 +1510,6 @@ header .header-logo a {
   }
 }
   */
-
 
 @media only screen and (max-width : 400px) {
   header .header-logo a {
