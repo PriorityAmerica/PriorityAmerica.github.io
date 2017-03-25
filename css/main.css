@@ -1517,10 +1517,10 @@ header .header-logo a {
 
 
 @media only screen and (max-width : 320px) {
-  header {
+  
     background-image: url(../images/test.jpg) no-repeat center center fixed;
     background-color: #ffffff
-  }
+  
 }
 
 
