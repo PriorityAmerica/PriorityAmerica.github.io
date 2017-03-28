@@ -1260,8 +1260,7 @@ header .header-logo a {
   margin: 0;
   padding: 0;
   outline: 0;
-  border-style: dotted;
-  
+  border: none;
   width: 350px;
   height: 109px;
   background: url("../images/priority-america-hires.png") no-repeat center;
@@ -1518,8 +1517,8 @@ header .header-logo a {
     /*display: block;
     background-image: url("../images/keyboard-bg-small.jpg") no-repeat ;
     */
-    width: 150px;
-    height: 93px;
+    background-size: 90px 24px;
+    background: url("../images/priority-america-hires-mobile3.png") no-repeat center;
   }
 }
 
