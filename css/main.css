@@ -1541,7 +1541,7 @@ header .header-logo a {
   background-position: center 30%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   min-height: 804px;
   position: relative;
@@ -1795,9 +1795,6 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   .home-content-tablecell h1 {
     font-size: 3.6rem;
   }
-
-
-  background-image: url(../images/keyboard-bg-small.jpg);
   
 }
 
