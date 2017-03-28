@@ -1518,7 +1518,9 @@ header .header-logo a {
     background-image: url("../images/keyboard-bg-small.jpg") no-repeat ;
     */
     /*background-size: 150px 24px;*/
-    background-image: url("../images/priority-america-hires-mobile3.png") no-repeat left;
+    /*background-image: url("../images/priority-america-hires.png") no-repeat left;*/
+    width: 360px;
+    height: 109px;
     
   }
 }
