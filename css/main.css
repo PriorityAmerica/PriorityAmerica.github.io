@@ -1260,7 +1260,8 @@ header .header-logo a {
   margin: 0;
   padding: 0;
   outline: 0;
-  border: none;
+  border-style: dotted;
+  
   width: 350px;
   height: 109px;
   background: url("../images/priority-america-hires.png") no-repeat center;
@@ -1492,7 +1493,7 @@ header .header-logo a {
   header .header-logo a {
     width: 51px;
     height: 24px;
-    background-size: 51px 24px;
+    /*background-size: 51px 24px;*/
   }
 }
 
