@@ -1522,6 +1522,10 @@ header .header-logo a {
     width: 300px;
     height: 105px;
     background-size: contain;
+
+  }
+
+  header {
     background-image: url("../images/keyboard-bg-small.jpg");
   }
 
