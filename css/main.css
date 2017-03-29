@@ -1263,7 +1263,7 @@ header .header-logo a {
   border: none;
   width: 350px;
   height: 109px;
-  background: url("../images/priority-america-hires2.png") no-repeat center;
+  background: url("../images/priority-america-hires.png") no-repeat center;
   background-size: 350px 109px;
   font: 0/0 a;
   text-shadow: none;
@@ -1784,7 +1784,6 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   #home {
     background-image: url("../images/keyboard-bg-small.png") no-repeat center;
     background-size: contain; 
-    opacity: .5;
   
   }
 
