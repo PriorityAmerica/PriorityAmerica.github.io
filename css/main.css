@@ -1554,8 +1554,6 @@ header .header-logo a {
   height: 100%;
   opacity: .2;
   background-color: #19191b;
-  background-image: url(../images/keyboard-bg.jpg);
-  background-size: contain;
 }
 
 .home-content-table {
@@ -1785,6 +1783,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
   #home {
     
+    background: url("../images/keyboard-bg-small.png") no-repeat center;
+    background-size: contain; 
+  }
+
+  .overlay {
     background: url("../images/keyboard-bg-small.png") no-repeat center;
     background-size: contain; 
   }
