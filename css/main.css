@@ -1554,6 +1554,7 @@ header .header-logo a {
   height: 100%;
   opacity: .2;
   background-color: #19191b;
+  background-image: url(../images/keyboard-bg.jpg);
 }
 
 .home-content-table {
