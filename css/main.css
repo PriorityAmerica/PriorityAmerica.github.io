@@ -1813,10 +1813,9 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     opacity: .05;
   }
   */
-  background-image: url("../images/keyboard-bg-small.jpg") ;
-  height: 350px;
     
   .home-content-tablecell .row {
+    background-image: url("../images/keyboard-bg-small.jpg");
     padding-top: 4.8rem;
     padding-bottom: 10.8rem;
   }
