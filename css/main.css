@@ -1787,6 +1787,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     opacity: .5;
   
   }
+
+  #bgimg { 
+    background-image: url("../images/keyboard-bg-small.png") no-repeat center;
+  }
   
   .home-content-tablecell .row {
     padding-top: 4.8rem;
