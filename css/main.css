@@ -1815,7 +1815,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   
   .overlay {
     background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
-    background-size: contain;
+ 
   }
 
   .home-content-tablecell .row {
