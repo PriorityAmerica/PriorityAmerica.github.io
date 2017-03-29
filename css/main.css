@@ -1784,7 +1784,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   #home {
     background-image: url("../images/keyboard-bg-small.png") no-repeat center;
     background-size: contain; 
-    opacity: 1;
+    opacity: .5;
   
   }
 
