@@ -1525,11 +1525,13 @@ header .header-logo a {
 
   }
 
+  /*
   header {
     height: 300px;
     background-image: url("../images/keyboard-bg-small.jpg");
 
   }
+  */
 
 }
 
@@ -1799,6 +1801,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
   */
   
+  #bgimg {
+    height: 350px;
+    background-image: url("../images/keyboard-bg-small.jpg");
+  }
+
   .home-content-tablecell .row {
     padding-top: 4.8rem;
     padding-bottom: 10.8rem;
