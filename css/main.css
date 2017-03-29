@@ -1565,6 +1565,10 @@ header .header-logo a {
   background-color: #19191b;
 }
 
+#home .bgimg {
+ 
+}
+
 .home-content-table {
   width: 100%;
   height: 100%;
@@ -1802,7 +1806,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
   */
   
-  .overlay {
+  .bgimg {
     background-image: url("../images/keyboard-bg-small.jpg") top no-repeat;
   }
 
