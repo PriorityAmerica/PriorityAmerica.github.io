@@ -1757,6 +1757,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     min-height: 702px;
   }
 
+  .overlay {
+    background-image: url("../images/keyboard-bg-small.jpg");
+  }
+
   .home-content-tablecell .row {
     max-width: 480px;
     padding-top: 12rem;
