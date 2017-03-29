@@ -1726,7 +1726,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 768px) {
   
   .overlay {
-    background-image: url("../images/keyboard-bg-small.jpg");
+    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
     opacity: .6;
   }
 
@@ -1765,7 +1765,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
 
   .overlay {
-    background-image: url("../images/keyboard-bg-small.jpg");
+    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
   }
 
   .home-content-tablecell .row {
@@ -1813,7 +1813,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   */
   
   .overlay {
-    background-image: url("../images/keyboard-bg-small.jpg");
+    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
   }
 
   .home-content-tablecell .row {
