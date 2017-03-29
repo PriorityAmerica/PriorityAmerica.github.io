@@ -1814,9 +1814,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
   */
     
-  #home {
+  .home {
     background-image: url("../images/keyboard-bg-small.jpg");
   }  
+
   .home-content-tablecell .row {
     padding-top: 4.8rem;
     padding-bottom: 10.8rem;
