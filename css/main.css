@@ -1724,6 +1724,12 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
 }
 @media only screen and (max-width: 768px) {
+  
+  .overlay {
+    background-image: url("../images/keyboard-bg-small.jpg");
+  }
+
+
   .home-content-tablecell .row {
     max-width: 600px;
   }
