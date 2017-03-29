@@ -1782,7 +1782,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 @media only screen and (max-width: 400px) {
   #home {
-    background-image: url("../images/keyboard-bg-small.png") no-repeat top;
+    /*background-image: url("../images/keyboard-bg-small.png") no-repeat top;*/
     /*background: url("../images/priority-america-hires.png") no-repeat top;*/
 
     background-size: cover; 
