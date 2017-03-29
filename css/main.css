@@ -1788,14 +1788,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   
   }
 
-  /*
+  
   #home .overlay {
-    background: url("../images/keyboard-bg-small.png") no-repeat center;
-    background-size: contain; 
-    opacity: 1;
+    opacity: .25;
   }
-  */
-
+  
   .home-content-tablecell .row {
     padding-top: 4.8rem;
     padding-bottom: 10.8rem;
