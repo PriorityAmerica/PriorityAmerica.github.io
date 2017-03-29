@@ -1803,7 +1803,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   */
   
   .overlay {
-    background-image: url("../images/keyboard-bg-small.jpg");
+    background-image: url("../images/keyboard-bg-small.jpg") top no-repeat;
   }
 
   .home-content-tablecell .row {
