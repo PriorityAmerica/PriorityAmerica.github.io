@@ -1809,7 +1809,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   .bgimg {
     background-image: url("../images/keyboard-bg-small.jpg");
     height: 100%;
-    opacity: .1;
+    opacity: .05;
   }
 
   .home-content-tablecell .row {
