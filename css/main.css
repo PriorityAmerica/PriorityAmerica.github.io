@@ -1782,15 +1782,19 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 @media only screen and (max-width: 400px) {
   #home {
-    
+    background-image: url("../images/keyboard-bg-small.png") no-repeat center;
+    background-size: contain; 
+    opacity: 1;
   
   }
 
+  /*
   #home .overlay {
     background: url("../images/keyboard-bg-small.png") no-repeat center;
     background-size: contain; 
     opacity: 1;
   }
+  */
 
   .home-content-tablecell .row {
     padding-top: 4.8rem;
