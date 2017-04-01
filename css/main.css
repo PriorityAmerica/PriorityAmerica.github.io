@@ -1797,12 +1797,12 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
   
   #home {
-    background-image: url("../images/keyboard-bg-small.png");
+    background-image: url("../images/keyboard-bg-small.png") no-repeat left;
 
     /*
     background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
     */
-    
+    background-color: ffffff;
     background-size: cover; 
   
   }
