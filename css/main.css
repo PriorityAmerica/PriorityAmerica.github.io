@@ -1514,10 +1514,10 @@ header .header-logo a {
 
 @media only screen and (max-width : 400px) {
   header .header-logo a {
-    /*display: block;*/
+    /*display: block;
     background-image: url("../images/keyboard-bg-small.jpg") no-repeat ;
     
-    background-size: 150px 24px;
+    background-size: 150px 24px;*/
     /*background-image: url("../images/priority-america-hires.png") no-repeat left;*/
     width: 300px;
     height: 105px;
@@ -1795,22 +1795,25 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
 }
 @media only screen and (max-width: 400px) {
-  /*
+  
   #home {
     background-image: url("../images/keyboard-bg-small.png");
 
+    /*
     background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
-
+    */
+    
     background-size: cover; 
   
   }
-  */
   
+  /*
   .bgimg {
     background-image: url("../images/keyboard-bg-small.jpg");
     height: 100%;
     opacity: .1;
   }
+  */
 
   .home-content-tablecell .row {
     padding-top: 4.8rem;
