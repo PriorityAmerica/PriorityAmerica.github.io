@@ -1514,9 +1514,9 @@ header .header-logo a {
 
 @media only screen and (max-width : 400px) {
   header .header-logo a {
-    /*display: block;
+    /*display: block;*/
     background-image: url("../images/keyboard-bg-small.jpg") no-repeat ;
-    */
+    
     /*background-size: 150px 24px;*/
     /*background-image: url("../images/priority-america-hires.png") no-repeat left;*/
     width: 300px;
