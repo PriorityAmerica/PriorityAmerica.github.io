@@ -1797,13 +1797,14 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
   
   #home {
-    background-image: url("../images/keyboard-bg.jpg") no-repeat;
+    background-image: url("../images/keyboard-bg-tiny.jpg") no-repeat;
     background-position: left;
     background: contain;
     /*
     background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
     */
-
+    width: 400px;
+    height: 266px;
   
   }
   
@@ -1944,7 +1945,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
  * ------------------------------------------------------------------- */
 #services {
   background-color: #19191b;
-  background-image: url(../images/services-bg.jpg);
+  background-image: url("../images/services-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
