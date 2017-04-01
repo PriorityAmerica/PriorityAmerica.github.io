@@ -1799,12 +1799,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   #home {
     background-image: url("../images/keyboard-bg-tiny.jpg") no-repeat;
     background-position: left;
-    background: contain;
+    background: cover;
     /*
     background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
     */
     width: 400px;
-    height: 266px;
   
   }
   
