@@ -1799,6 +1799,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   #home {
     background-image: url("../images/keyboard-bg-small.png") no-repeat;
     background-position: left;
+    background-size: 150px 50px; 
     /*
     background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
     */
