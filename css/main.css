@@ -1794,6 +1794,8 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     height: 24px;
   }
 }
+
+
 @media only screen and (max-width: 400px) {
   
   /*
@@ -1811,10 +1813,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   */
 
   .home-content-table .row {
-    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
-    background-position: left;
-    /*background-size: contain;*/
-    background-color: #F4F4F2;
+    width: 399px;
+    height: 266px;
+    background-image: url("../images/keyboard-bg-small.jpg") no-repeat 0 0 !important;
+    background-size: contain !important;
   }
   
   /*
