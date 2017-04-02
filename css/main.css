@@ -1811,7 +1811,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   */
 
   .home-content-table .row {
-    background-image: url("../images/keyboard-bg-tiny.jpg") no-repeat;
+    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
     background-position: left;
     background-size: contain;
   }
