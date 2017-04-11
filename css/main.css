@@ -1774,20 +1774,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 
 @media only screen and (max-width: 400px) {
   
-  /*
   #home {
-    background-image: url("../images/keyboard-bg-tiny.jpg") no-repeat;
+    background-image: url("../images/keyboard-bg-small.jpg");
     background-position: left;
-    background-size: contain;
-    /*
-    background: url("../images/priority-america-hires.png") no-repeat top left padding-left-50;
-    
-    width: 400px;
-    
-  
   }
-  */
-
+  /*
   .home-content-table .row {
     width: 399px;
     height: 266px;
@@ -1795,7 +1786,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     background-position: left;
     background-size: contain;
   }
-  
+  */
   /*
   .bgimg {
     background-image: url("../images/keyboard-bg-small.jpg");
