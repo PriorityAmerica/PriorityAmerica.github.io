@@ -1775,9 +1775,9 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 400px) {
 
   #home {
-    background-image: url("../images/keyboard-bg-small.jpg") !important;
+    background-image: url("../images/keyboard-bg-tiny.jpg");
     background-position: left;
-    height: 100vh !important;
+    height: 100%;
   }
   /*
   .home-content-table .row {
