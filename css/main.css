@@ -1778,6 +1778,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     background-image: url("../images/keyboard-bg-small.jpg");
     background-position: left;
     height: 100vh;
+    background-size: contain;
   }
   /*
   .home-content-table .row {
