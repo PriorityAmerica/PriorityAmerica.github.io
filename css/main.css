@@ -1778,7 +1778,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     background-image: url("../images/keyboard-bg.png");
     /*background-position: left;*/
     background-size: contain;
-    background-attachment: scroll;
+    background-attachment: local;
     /*height: 100%;*/
   }
   /*
