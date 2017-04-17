@@ -1778,7 +1778,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   #home {
     background-image: url("../images/keyboard-bg.png");
     background-attachment: inherit;
-    background-size: 100%;
+  
   }
 
   .home-content-tablecell .row {
