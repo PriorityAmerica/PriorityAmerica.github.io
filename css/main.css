@@ -1776,28 +1776,8 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 
   #home {
     background-image: url("../images/keyboard-bg.png");
-    /*background-position: left;*/
-  
     background-attachment: inherit;
-
-    /*height: 100%;*/
   }
-  /*
-  .home-content-table .row {
-    width: 399px;
-    height: 266px;
-    background-image: url("../images/keyboard-bg-small.jpg") no-repeat;
-    background-position: left;
-    background-size: contain;
-  }
-  */
-  /*
-  .bgimg {
-    background-image: url("../images/keyboard-bg-small.jpg");
-    height: 100%;
-    opacity: .1;
-  }
-  */
 
   .home-content-tablecell .row {
     padding-top: 4.8rem;
